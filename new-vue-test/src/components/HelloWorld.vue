@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
    <view>诶嘿嘿</view>
+      <view class="h">好的哈还是打快点</view>
   </div>
 </template>
 
